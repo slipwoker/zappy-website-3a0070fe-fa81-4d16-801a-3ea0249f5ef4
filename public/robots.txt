@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ctdrummer.com/sitemap.xml
+Sitemap: https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/sitemap.xml
