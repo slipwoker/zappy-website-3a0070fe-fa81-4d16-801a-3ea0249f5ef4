@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://top-drummer-3a0070fe.zappy5.app/sitemap.xml
