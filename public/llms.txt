@@ -1,57 +1,47 @@
-# חן תורג'מן - Top Drummer — Generative Engine Optimization Map
-
-> A חינוך מוזיקלי ותופים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://chen-turgeman-top-drummer.zappy5.app
+https://ctdrummer.com
 סדנאות תופים קבוצתיות ופרטיות, קורס תופים דיגיטלי, הקלטות מקצועיות ומנטורינג אישי. הצטרפו עכשיו!
 
 ### שירותים
-https://chen-turgeman-top-drummer.zappy5.app/services
+https://ctdrummer.com/services
 סדנאות תופים קבוצתיות וקטנות, שיעורים פרטיים, קורס דיגיטלי, הקלטות ומנטורינג. בחרו את השירות המתאים לכם!
 
 ### אודות
-https://chen-turgeman-top-drummer.zappy5.app/about
+https://ctdrummer.com/about
 למדו על חן תורג'מן - מתופף מקצועי עם ניסיון עשיר בהוראה, הפקה והופעות. בית ספר לתופים המוביל בישראל.
 
 ### צור קשר
-https://chen-turgeman-top-drummer.zappy5.app/contact
+https://ctdrummer.com/contact
 צרו קשר עם חן תורג'מן לקבלת מידע על סדנאות תופים, שיעורים פרטיים, קורס דיגיטלי והקלטות. נשמח לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://chen-turgeman-top-drummer.zappy5.app/privacy
+https://ctdrummer.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://chen-turgeman-top-drummer.zappy5.app/terms
+https://ctdrummer.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://chen-turgeman-top-drummer.zappy5.app/accessibility
+https://ctdrummer.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About חן תורג'מן - Top Drummer
-חן תורג'מן - Top Drummer is a business in the חינוך מוזיקלי ותופים industry.
-
-## Target Audience
-מתופפים ולומדי תופים
-
-## Industry
-חינוך מוזיקלי ותופים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://chen-turgeman-top-drummer.zappy5.app/sitemap.xml
-- **Robots.txt**: https://chen-turgeman-top-drummer.zappy5.app/robots.txt
+- **Sitemap**: https://ctdrummer.com/sitemap.xml
+- **Robots.txt**: https://ctdrummer.com/robots.txt
