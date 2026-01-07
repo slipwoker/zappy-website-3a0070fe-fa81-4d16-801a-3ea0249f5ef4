@@ -1,57 +1,47 @@
-# חן תורג'מן - Top Drummer — Generative Engine Optimization Map
-
-> A חינוך מוזיקלי ותופים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://top-drummer-3a0070fe.zappy5.app
+https://example.com
 סדנאות תופים קבוצתיות ופרטיות, קורס תופים דיגיטלי, הקלטות מקצועיות ומנטורינג אישי. הצטרפו עכשיו!
 
 ### שירותים
-https://top-drummer-3a0070fe.zappy5.app/services
+https://example.com/services
 סדנאות תופים קבוצתיות וקטנות, שיעורים פרטיים, קורס דיגיטלי, הקלטות ומנטורינג. בחרו את השירות המתאים לכם!
 
 ### אודות
-https://top-drummer-3a0070fe.zappy5.app/about
+https://example.com/about
 למדו על חן תורג'מן - מתופף מקצועי עם ניסיון עשיר בהוראה, הפקה והופעות. בית ספר לתופים המוביל בישראל.
 
 ### צור קשר
-https://top-drummer-3a0070fe.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם חן תורג'מן לקבלת מידע על סדנאות תופים, שיעורים פרטיים, קורס דיגיטלי והקלטות. נשמח לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://top-drummer-3a0070fe.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://top-drummer-3a0070fe.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://top-drummer-3a0070fe.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About חן תורג'מן - Top Drummer
-חן תורג'מן - Top Drummer is a business in the חינוך מוזיקלי ותופים industry.
-
-## Target Audience
-מתופפים ולומדי תופים
-
-## Industry
-חינוך מוזיקלי ותופים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://top-drummer-3a0070fe.zappy5.app/sitemap.xml
-- **Robots.txt**: https://top-drummer-3a0070fe.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
