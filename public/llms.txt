@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# חן תורג'מן - Top Drummer — Generative Engine Optimization Map
+
+> A חינוך מוזיקלי ותופים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://ctdrummer.com
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com
 סדנאות תופים קבוצתיות ופרטיות, קורס תופים דיגיטלי, הקלטות מקצועיות ומנטורינג אישי. הצטרפו עכשיו!
 
 ### שירותים
-https://ctdrummer.com/services
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/services
 סדנאות תופים קבוצתיות וקטנות, שיעורים פרטיים, קורס דיגיטלי, הקלטות ומנטורינג. בחרו את השירות המתאים לכם!
 
 ### אודות
-https://ctdrummer.com/about
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/about
 למדו על חן תורג'מן - מתופף מקצועי עם ניסיון עשיר בהוראה, הפקה והופעות. בית ספר לתופים המוביל בישראל.
 
 ### צור קשר
-https://ctdrummer.com/contact
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/contact
 צרו קשר עם חן תורג'מן לקבלת מידע על סדנאות תופים, שיעורים פרטיים, קורס דיגיטלי והקלטות. נשמח לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ctdrummer.com/privacy
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ctdrummer.com/terms
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ctdrummer.com/accessibility
+https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About חן תורג'מן - Top Drummer
+חן תורג'מן - Top Drummer is a business in the חינוך מוזיקלי ותופים industry.
+
+## Target Audience
+מתופפים ולומדי תופים
+
+## Industry
+חינוך מוזיקלי ותופים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://ctdrummer.com/sitemap.xml
-- **Robots.txt**: https://ctdrummer.com/robots.txt
+- **Sitemap**: https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-3a0070fe-fa81-4d16-801a.onrender.com/robots.txt
